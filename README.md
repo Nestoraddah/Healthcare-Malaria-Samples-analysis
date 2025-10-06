@@ -1,6 +1,5 @@
 # Healthcare-Malaria-Samples-analysis
-Analysed a malaria sample dataset to answer healthcare questions
-This project analyzed malaria survey data collected from hospitals across Ghana to uncover demographic and regional trends in malaria infections. Using Python (Pandas, NumPy, Seaborn, Matplotlib), the dataset was cleaned by removing duplicates, handling missing values (e.g., imputing literacy levels), and restructuring columns for consistency. The analysis explored patterns in sample types, age distribution, gender, and regional results to understand malaria prevalence.
+This project analyzed malaria survey data collected from hospitals across Ghana to uncover demographic and regional trends in malaria infections. Using Python (Pandas, NumPy, Seaborn, Matplotlib), the dataset was cleaned by removing duplicates, handling missing values (e.g., imputing literacy levels), and restructuring columns for consistency. The analysis examined patterns in sample types, age distribution, gender, and regional results to understand the prevalence of malaria.
 
 Key analytical steps included:
 
